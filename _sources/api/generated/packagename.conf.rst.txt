@@ -1,0 +1,10 @@
+packagename.conf package
+========================
+
+Module contents
+---------------
+
+.. automodule:: packagename.conf
+   :members:
+   :undoc-members:
+   :show-inheritance:

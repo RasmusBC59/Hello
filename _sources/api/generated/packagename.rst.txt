@@ -1,0 +1,31 @@
+packagename package
+===================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 10
+
+   packagename.conf
+   packagename.telemetry
+   packagename.tests
+
+Submodules
+----------
+
+packagename.hello\_world module
+-------------------------------
+
+.. automodule:: packagename.hello_world
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: packagename
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,21 @@
+packagename.telemetry package
+=============================
+
+Submodules
+----------
+
+packagename.telemetry.telemetry\_functions module
+-------------------------------------------------
+
+.. automodule:: packagename.telemetry.telemetry_functions
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: packagename.telemetry
+   :members:
+   :undoc-members:
+   :show-inheritance:

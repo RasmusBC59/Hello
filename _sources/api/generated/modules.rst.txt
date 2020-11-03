@@ -1,0 +1,7 @@
+packagename
+===========
+
+.. toctree::
+   :maxdepth: 10
+
+   packagename

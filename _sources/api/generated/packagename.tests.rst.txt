@@ -1,0 +1,37 @@
+packagename.tests package
+=========================
+
+Submodules
+----------
+
+packagename.tests.conftest module
+---------------------------------
+
+.. automodule:: packagename.tests.conftest
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+packagename.tests.test\_config module
+-------------------------------------
+
+.. automodule:: packagename.tests.test_config
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+packagename.tests.test\_installation module
+-------------------------------------------
+
+.. automodule:: packagename.tests.test_installation
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: packagename.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:
